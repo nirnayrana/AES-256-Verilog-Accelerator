@@ -14,6 +14,7 @@ It implements the NIST FIPS-197 Advanced Encryption Standard (AES) with a 256-bi
 - **Latency:** 14 Clock Cycles (Deterministic).
 - **Throughput:** ~450 Mbps @ 50MHz Clock.
 - **Verification:** Self-checking SystemVerilog testbench matching NIST Golden Vectors.
+<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/0c6b7343-e8f7-47b9-92e9-61dac487b1f5" />
 
 ## 📂 Directory Structure
 ```text
