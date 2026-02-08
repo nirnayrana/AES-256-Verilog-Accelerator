@@ -1,0 +1,15 @@
+# Ignore Simulation Files
+*.vcd
+*.out
+*.log
+*.vvp
+aes_test
+aes_test_sv
+
+# Ignore Quartus Junk
+db/
+incremental_db/
+output_files/
+*.qpf
+*.qsf
+*.bak
